@@ -1,4 +1,9 @@
+*{
+    padding:0fr;
+}
+
 
 body{
+    font: 1em sans-serif;
 }
 
